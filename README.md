@@ -29,10 +29,10 @@ A simple terminal-based typing practice program written in C++.
 ---
 
 ## 📄 Example Output
-```
+<pre>
 Enter the text file name: demo1.txt
 (User can choose their own text file for typing)
 
 Start typing below:
 (Text will appear line by line from the selected file)
-```
+</pre>
