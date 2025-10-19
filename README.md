@@ -5,7 +5,7 @@ A simple terminal-based typing practice program written in C++.
 ---
 
 ## 🚀 Features
-- At first, the user must select a text file that contain the text to be typed.
+- At first, the user select a text file that contain the text to be typed.
 - Users can choose from demo text files or provide their own text file for typing.
 - The program gives real-time feedback while typing: correct characters appear in green, incorrect characters in red, and the rest of the text in yellow.
 - Words per minute (WPM) is calculated based on typing speed.
@@ -28,17 +28,12 @@ A simple terminal-based typing practice program written in C++.
 
 ---
 
-## 📄 Example Output
-<pre>
-Enter the text file name: demo1.txt
-[ User can choose their own text file for typing ]
-
-Start typing below:
-[ Text will appear line by line from the selected file ]
-</pre>
-
----
-
 ## 💻 Tested On
 1. Linux
 2. Termux (Android)
+
+---
+
+## 📄 Example Output
+![Typing Practice Demo Screenshot](https://github.com/CodeZen404/typing_practice/blob/main/images/typing_practice_demo_screenshot.jpg)
+
